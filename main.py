@@ -27,8 +27,8 @@ def method_HW01_Task02():
     elif (dot == 4):
         print("X > 0 и Y > 0")
 
-#method_HW01_Task01()
-#method_HW01_Task02()
+method_HW01_Task01()
+method_HW01_Task02()
 
 
 
